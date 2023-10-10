@@ -1,4 +1,4 @@
-# **    SmartDoor Lock System Project Made by Mohamed Osama  **
+# **  SmartDoor Lock System Project Made by Mohamed Osama **
 
 ## Hardware used :
  1. Atmega32
