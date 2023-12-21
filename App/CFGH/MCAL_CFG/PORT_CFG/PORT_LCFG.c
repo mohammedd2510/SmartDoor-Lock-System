@@ -40,7 +40,8 @@ const PIN_PARAMETERS PORT_Initialization[DEFINED_PINS]={
 	{SERVO_PWM_PIN,PIN_OUTPUT},
 	/*******************/
 	/*LEDS Pins */
-	{LED_BLUE,PIN_OUTPUT},
+	{LED_BLUE,PIN_OUTPUT},	
+	{LED_RED,PIN_OUTPUT},
 	/**********************/	
 	};
 /**********************************************************************************************************************

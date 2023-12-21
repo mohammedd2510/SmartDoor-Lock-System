@@ -1,0 +1,1051 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              HAL/LCD/LCD_Core.o (__udivmodsi4)
+d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              HAL/LCD/LCD_Core.o (__divmodsi4)
+d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o (__do_copy_data)
+d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              App/Main/App.o (__do_clear_bss)
+d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              MCAL/PWM/PWM_Core.o (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+Timer0_Total_num_ovfs
+                    0x4               MCAL/GPT/GPT_Core.o
+Timer0_TickTime     0x4               MCAL/GPT/GPT_Core.o
+Timer1_Init_Value   0x4               MCAL/GPT/GPT_Core.o
+Timer1_Total_num_ovfs
+                    0x4               MCAL/GPT/GPT_Core.o
+Timer1_TickTime     0x4               MCAL/GPT/GPT_Core.o
+Timer1_Total_num_compare_match
+                    0x4               MCAL/GPT/GPT_Core.o
+Timer0_Total_num_compare_match
+                    0x4               MCAL/GPT/GPT_Core.o
+RECEIVE_STATUS_FLAG
+                    0x1               MCAL/UART/UART_Core.o
+Timer1_compare_Reg_init
+                    0x4               MCAL/GPT/GPT_Core.o
+Timer0_Init_Value   0x4               MCAL/GPT/GPT_Core.o
+TX_STATUS_FLAG      0x1               MCAL/UART/UART_Core.o
+Timer1_OVF_Cnt      0x4               MCAL/GPT/GPT_Core.o
+Timer0_compare_Reg_init
+                    0x4               MCAL/GPT/GPT_Core.o
+UBBRH_t             0x2               App/Main/App.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x00000000        0x0 App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+ .data          0x00000000        0x0 App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+ .bss           0x00000000        0x0 App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+ .text          0x00000000        0x0 App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+ .data          0x00000000        0x0 App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+ .bss           0x00000000        0x0 App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+ .text          0x00000000        0x0 App/Main/App.o
+ .data          0x00000000        0x0 App/Main/App.o
+ .bss           0x00000000        0x0 App/Main/App.o
+ COMMON         0x00000000        0x2 App/Main/App.o
+ .text          0x00000000        0x0 App/Smart Door/Smart_Door.o
+ .data          0x00000000        0x0 App/Smart Door/Smart_Door.o
+ .bss           0x00000000        0x0 App/Smart Door/Smart_Door.o
+ .text          0x00000000        0x0 HAL/Bluetooth/Bluetooth_Core.o
+ .data          0x00000000        0x0 HAL/Bluetooth/Bluetooth_Core.o
+ .bss           0x00000000        0x0 HAL/Bluetooth/Bluetooth_Core.o
+ .text          0x00000000        0x0 HAL/BUZZ/BUZZ.o
+ .data          0x00000000        0x0 HAL/BUZZ/BUZZ.o
+ .bss           0x00000000        0x0 HAL/BUZZ/BUZZ.o
+ .text          0x00000000        0x0 HAL/EEPROM/EEPROM_Core.o
+ .data          0x00000000        0x0 HAL/EEPROM/EEPROM_Core.o
+ .bss           0x00000000        0x0 HAL/EEPROM/EEPROM_Core.o
+ .text.EEPROM_WriteByte
+                0x00000000       0x2e HAL/EEPROM/EEPROM_Core.o
+ .text.EEPROM_ReadByte
+                0x00000000       0x34 HAL/EEPROM/EEPROM_Core.o
+ .text          0x00000000        0x0 HAL/LCD/LCD_Core.o
+ .data          0x00000000        0x0 HAL/LCD/LCD_Core.o
+ .bss           0x00000000        0x0 HAL/LCD/LCD_Core.o
+ .text.LCD_WriteInteger
+                0x00000000       0xde HAL/LCD/LCD_Core.o
+ .text          0x00000000        0x0 HAL/LED/LED.o
+ .data          0x00000000        0x0 HAL/LED/LED.o
+ .bss           0x00000000        0x0 HAL/LED/LED.o
+ .text.LED_Toggle
+                0x00000000        0x6 HAL/LED/LED.o
+ .text          0x00000000        0x0 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .data          0x00000000        0x0 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .bss           0x00000000        0x0 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .text          0x00000000        0x0 MCAL/DIO/DIO_Core.o
+ .data          0x00000000        0x0 MCAL/DIO/DIO_Core.o
+ .bss           0x00000000        0x0 MCAL/DIO/DIO_Core.o
+ .text.DIO_ReadChannel
+                0x00000000       0x34 MCAL/DIO/DIO_Core.o
+ .text.DIO_FlipChannel
+                0x00000000       0x32 MCAL/DIO/DIO_Core.o
+ .text.DIO_ReadPort
+                0x00000000       0x20 MCAL/DIO/DIO_Core.o
+ .rodata.Input_Registers
+                0x00000000        0x8 MCAL/DIO/DIO_Core.o
+ .text          0x00000000        0x0 MCAL/I2C/I2C_Core.o
+ .data          0x00000000        0x0 MCAL/I2C/I2C_Core.o
+ .bss           0x00000000        0x0 MCAL/I2C/I2C_Core.o
+ .text.I2C_SlaveInit
+                0x00000000       0x10 MCAL/I2C/I2C_Core.o
+ .text          0x00000000        0x0 MCAL/IRQH/IRQH_Core.o
+ .data          0x00000000        0x0 MCAL/IRQH/IRQH_Core.o
+ .bss           0x00000000        0x0 MCAL/IRQH/IRQH_Core.o
+ .text.IRQH_SetExternalINT
+                0x00000000       0x14 MCAL/IRQH/IRQH_Core.o
+ .text          0x00000000        0x0 MCAL/PORT/PORT_Core.o
+ .data          0x00000000        0x0 MCAL/PORT/PORT_Core.o
+ .bss           0x00000000        0x0 MCAL/PORT/PORT_Core.o
+ .text          0x00000000        0x0 MCAL/GPT/GPT_Core.o
+ .data          0x00000000        0x0 MCAL/GPT/GPT_Core.o
+ .bss           0x00000000        0x0 MCAL/GPT/GPT_Core.o
+ .text.TIMER1_Prescaler_Select
+                0x00000000       0x16 MCAL/GPT/GPT_Core.o
+ .text.TIMER1_Mode_Select
+                0x00000000       0x1a MCAL/GPT/GPT_Core.o
+ .text.TIMER1_Interrupt_Init
+                0x00000000        0x8 MCAL/GPT/GPT_Core.o
+ .text.GPT_SetTime
+                0x00000000       0xe8 MCAL/GPT/GPT_Core.o
+ .text.GPT_Init
+                0x00000000        0xe MCAL/GPT/GPT_Core.o
+ .bss.Timer2_Prescaler_value
+                0x00000000        0x2 MCAL/GPT/GPT_Core.o
+ .bss.Timer1_Prescaler_value
+                0x00000000        0x2 MCAL/GPT/GPT_Core.o
+ .bss.Timer0_Prescaler_value
+                0x00000000        0x2 MCAL/GPT/GPT_Core.o
+ .text          0x00000000        0x0 MCAL/PWM/PWM_Core.o
+ .data          0x00000000        0x0 MCAL/PWM/PWM_Core.o
+ .bss           0x00000000        0x0 MCAL/PWM/PWM_Core.o
+ .text.PWM0_Generate
+                0x00000000        0x2 MCAL/PWM/PWM_Core.o
+ .text          0x00000000        0x0 MCAL/UART/UART_Core.o
+ .data          0x00000000        0x0 MCAL/UART/UART_Core.o
+ .bss           0x00000000        0x0 MCAL/UART/UART_Core.o
+ .text.UART_InitiateTx
+                0x00000000       0x12 MCAL/UART/UART_Core.o
+ .text.UART_SendData
+                0x00000000       0x3a MCAL/UART/UART_Core.o
+ .text.UART_ReceiveData
+                0x00000000       0x26 MCAL/UART/UART_Core.o
+ .text.UART_SendChar
+                0x00000000       0x10 MCAL/UART/UART_Core.o
+ .text.UART_SendCharStatus
+                0x00000000       0x12 MCAL/UART/UART_Core.o
+ .bss.REC_COUNTER.1986
+                0x00000000        0x1 MCAL/UART/UART_Core.o
+ .bss.TX_Cnt    0x00000000        0x1 MCAL/UART/UART_Core.o
+ .text          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x2e d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x00000000       0x10 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800060         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+LOAD App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+LOAD App/Main/App.o
+LOAD App/Smart Door/Smart_Door.o
+LOAD HAL/Bluetooth/Bluetooth_Core.o
+LOAD HAL/BUZZ/BUZZ.o
+LOAD HAL/EEPROM/EEPROM_Core.o
+LOAD HAL/LCD/LCD_Core.o
+LOAD HAL/LED/LED.o
+LOAD HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+LOAD MCAL/DIO/DIO_Core.o
+LOAD MCAL/I2C/I2C_Core.o
+LOAD MCAL/IRQH/IRQH_Core.o
+LOAD MCAL/PORT/PORT_Core.o
+LOAD MCAL/GPT/GPT_Core.o
+LOAD MCAL/PWM/PWM_Core.o
+LOAD MCAL/UART/UART_Core.o
+START GROUP
+LOAD d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5\libatmega32.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xfac
+ *(.vectors)
+ .vectors       0x00000000       0x54 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+                0x00000092                . = ALIGN (0x2)
+ *(.text.*)
+ .text.main     0x00000092        0xa App/Main/App.o
+                0x00000092                main
+ .text.Check_Password
+                0x0000009c       0x36 App/Smart Door/Smart_Door.o
+ .text.Welcome_Message
+                0x000000d2       0xa6 App/Smart Door/Smart_Door.o
+ .text.Select_Lock_Status
+                0x00000178       0x4a App/Smart Door/Smart_Door.o
+ .text.Get_Password
+                0x000001c2       0x54 App/Smart Door/Smart_Door.o
+ .text.Get_New_Password
+                0x00000216       0x54 App/Smart Door/Smart_Door.o
+ .text.Wrong_Password_Message
+                0x0000026a       0x48 App/Smart Door/Smart_Door.o
+ .text.Wrong_Password_3Times_Routine
+                0x000002b2       0x56 App/Smart Door/Smart_Door.o
+ .text.Unlocked_Door_Routine
+                0x00000308       0x4a App/Smart Door/Smart_Door.o
+ .text.Check_Current_Pin_Routine
+                0x00000352       0x58 App/Smart Door/Smart_Door.o
+ .text.Setting_New_Pin
+                0x000003aa       0x5a App/Smart Door/Smart_Door.o
+ .text.Set_New_Pin_Routine
+                0x00000404       0x5c App/Smart Door/Smart_Door.o
+ .text.SmartDoor_Initialize
+                0x00000460       0x40 App/Smart Door/Smart_Door.o
+                0x00000460                SmartDoor_Initialize
+ .text.SmartDoor_Start
+                0x000004a0       0x22 App/Smart Door/Smart_Door.o
+                0x000004a0                SmartDoor_Start
+ .text.Bluetooth_ReceiveData
+                0x000004c2        0xe HAL/Bluetooth/Bluetooth_Core.o
+                0x000004c2                Bluetooth_ReceiveData
+ .text.Bluetooth_Select_Variable
+                0x000004d0       0x14 HAL/Bluetooth/Bluetooth_Core.o
+                0x000004d0                Bluetooth_Select_Variable
+ .text.Bluetooth_Check_DataReceived
+                0x000004e4        0x6 HAL/Bluetooth/Bluetooth_Core.o
+                0x000004e4                Bluetooth_Check_DataReceived
+ .text.Bluetooth_Stop_Receiving
+                0x000004ea        0x8 HAL/Bluetooth/Bluetooth_Core.o
+                0x000004ea                Bluetooth_Stop_Receiving
+ .text.Bluetooth_Init
+                0x000004f2       0x10 HAL/Bluetooth/Bluetooth_Core.o
+                0x000004f2                Bluetooth_Init
+ .text.Bluetooth_Start_Receiving
+                0x00000502        0x8 HAL/Bluetooth/Bluetooth_Core.o
+                0x00000502                Bluetooth_Start_Receiving
+ .text.BUZZ_ON  0x0000050a        0xa HAL/BUZZ/BUZZ.o
+                0x0000050a                BUZZ_ON
+ .text.BUZZ_OFF
+                0x00000514        0xa HAL/BUZZ/BUZZ.o
+                0x00000514                BUZZ_OFF
+ .text.EEPROM_INIT
+                0x0000051e        0x6 HAL/EEPROM/EEPROM_Core.o
+                0x0000051e                EEPROM_INIT
+ .text.EEPROM_WriteMultipleByte
+                0x00000524       0x48 HAL/EEPROM/EEPROM_Core.o
+                0x00000524                EEPROM_WriteMultipleByte
+ .text.EEPROM_ReadMultipleByte
+                0x0000056c       0x70 HAL/EEPROM/EEPROM_Core.o
+                0x0000056c                EEPROM_ReadMultipleByte
+ .text.LCD_WriteCommand
+                0x000005dc       0xbc HAL/LCD/LCD_Core.o
+                0x000005dc                LCD_WriteCommand
+ .text.LCD_Init
+                0x00000698       0x2c HAL/LCD/LCD_Core.o
+                0x00000698                LCD_Init
+ .text.LCD_WriteChar
+                0x000006c4       0xb6 HAL/LCD/LCD_Core.o
+                0x000006c4                LCD_WriteChar
+ .text.LCD_WriteString
+                0x0000077a       0x26 HAL/LCD/LCD_Core.o
+                0x0000077a                LCD_WriteString
+ .text.LCD_Clear
+                0x000007a0        0x8 HAL/LCD/LCD_Core.o
+                0x000007a0                LCD_Clear
+ .text.LCD_GoTo
+                0x000007a8       0x30 HAL/LCD/LCD_Core.o
+                0x000007a8                LCD_GoTo
+ .text.LCD_Custom_Char_Init
+                0x000007d8       0x54 HAL/LCD/LCD_Core.o
+                0x000007d8                LCD_Custom_Char_Init
+ .text.LED_SetValue
+                0x0000082c        0x6 HAL/LED/LED.o
+                0x0000082c                LED_SetValue
+ .text.ServoMotor_Init
+                0x00000832        0x6 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+                0x00000832                ServoMotor_Init
+ .text.ServoMotor_SetDegree
+                0x00000838       0x18 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+                0x00000838                ServoMotor_SetDegree
+ .text.DIO_WriteChannel
+                0x00000850       0x68 MCAL/DIO/DIO_Core.o
+                0x00000850                DIO_WriteChannel
+ .text.DIO_WritePort
+                0x000008b8       0x1c MCAL/DIO/DIO_Core.o
+                0x000008b8                DIO_WritePort
+ .text.DIO_ReadOutputPort
+                0x000008d4       0x20 MCAL/DIO/DIO_Core.o
+                0x000008d4                DIO_ReadOutputPort
+ .text.I2C_MasterInit
+                0x000008f4       0x20 MCAL/I2C/I2C_Core.o
+                0x000008f4                I2C_MasterInit
+ .text.I2C_StartCondition
+                0x00000914       0x12 MCAL/I2C/I2C_Core.o
+                0x00000914                I2C_StartCondition
+ .text.I2C_RepeatedStart
+                0x00000926       0x14 MCAL/I2C/I2C_Core.o
+                0x00000926                I2C_RepeatedStart
+ .text.I2C_SendAddress_WriteOperation
+                0x0000093a       0x18 MCAL/I2C/I2C_Core.o
+                0x0000093a                I2C_SendAddress_WriteOperation
+ .text.I2C_SendAddress_ReadOperation
+                0x00000952       0x1e MCAL/I2C/I2C_Core.o
+                0x00000952                I2C_SendAddress_ReadOperation
+ .text.I2C_WriteByte
+                0x00000970       0x16 MCAL/I2C/I2C_Core.o
+                0x00000970                I2C_WriteByte
+ .text.I2C_ReadByte_NACK
+                0x00000986       0x16 MCAL/I2C/I2C_Core.o
+                0x00000986                I2C_ReadByte_NACK
+ .text.I2C_ReadByte_ACK
+                0x0000099c       0x16 MCAL/I2C/I2C_Core.o
+                0x0000099c                I2C_ReadByte_ACK
+ .text.I2C_StopCondition
+                0x000009b2        0x6 MCAL/I2C/I2C_Core.o
+                0x000009b2                I2C_StopCondition
+ .text.IRQH_SetGlobalINT
+                0x000009b8       0x18 MCAL/IRQH/IRQH_Core.o
+                0x000009b8                IRQH_SetGlobalINT
+ .text.IRQH_Set_CallBack
+                0x000009d0       0x12 MCAL/IRQH/IRQH_Core.o
+                0x000009d0                IRQH_Set_CallBack
+ .text.__vector_1
+                0x000009e2       0x52 MCAL/IRQH/IRQH_Core.o
+                0x000009e2                __vector_1
+ .text.__vector_16
+                0x00000a34       0x52 MCAL/IRQH/IRQH_Core.o
+                0x00000a34                __vector_16
+ .text.__vector_11
+                0x00000a86       0xb4 MCAL/IRQH/IRQH_Core.o
+                0x00000a86                __vector_11
+ .text.__vector_10
+                0x00000b3a       0xe2 MCAL/IRQH/IRQH_Core.o
+                0x00000b3a                __vector_10
+ .text.__vector_7
+                0x00000c1c       0xd0 MCAL/IRQH/IRQH_Core.o
+                0x00000c1c                __vector_7
+ .text.__vector_9
+                0x00000cec       0xc6 MCAL/IRQH/IRQH_Core.o
+                0x00000cec                __vector_9
+ .text.__vector_13
+                0x00000db2       0x52 MCAL/IRQH/IRQH_Core.o
+                0x00000db2                __vector_13
+ .text.PORT_Init
+                0x00000e04       0x88 MCAL/PORT/PORT_Core.o
+                0x00000e04                PORT_Init
+ .text.PWM_Init
+                0x00000e8c       0x22 MCAL/PWM/PWM_Core.o
+                0x00000e8c                PWM_Init
+ .text.PWM1_Generate
+                0x00000eae       0x54 MCAL/PWM/PWM_Core.o
+                0x00000eae                PWM1_Generate
+ .text.UART_Init
+                0x00000f02       0x24 MCAL/UART/UART_Core.o
+                0x00000f02                UART_Init
+ .text.UART_ReceiveStatus
+                0x00000f26       0x12 MCAL/UART/UART_Core.o
+                0x00000f26                UART_ReceiveStatus
+ .text.UART_ReceiveChar
+                0x00000f38        0xe MCAL/UART/UART_Core.o
+                0x00000f38                UART_ReceiveChar
+ .text.libgcc.div
+                0x00000f46       0x44 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000f46                __udivmodsi4
+ .text.libgcc.mul
+                0x00000f8a       0x1e d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000f8a                __umulhisi3
+                0x00000fa8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000fa8        0x0 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000fa8                _exit
+                0x00000fa8                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000fa8        0x4 d:/avr/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000fac                _etext = .
+
+.data           0x00800060      0x166 load address 0x00000fac
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.Custom_Chr
+                0x00800060       0x40 App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+                0x00800060                Custom_Chr
+ .data.Current_pin
+                0x008000a0        0x4 App/Smart Door/Smart_Door.o
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.PORT_Initialization
+                0x008000a4       0x14 App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+                0x008000a4                PORT_Initialization
+ .rodata.str1.1
+                0x008000b8       0xfd App/Smart Door/Smart_Door.o
+ .rodata.Output_Registers
+                0x008001b5        0x8 MCAL/DIO/DIO_Core.o
+ .rodata.Direction_Registers
+                0x008001bd        0x8 MCAL/PORT/PORT_Core.o
+ *(.gnu.linkonce.r*)
+                0x008001c6                . = ALIGN (0x2)
+ *fill*         0x008001c5        0x1 
+                0x008001c6                _edata = .
+                0x008001c6                PROVIDE (__data_end, .)
+
+.bss            0x008001c6       0x6a
+                0x008001c6                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.Lock_Status
+                0x008001c6        0x1 App/Smart Door/Smart_Door.o
+ .bss.pin_Counter
+                0x008001c7        0x1 App/Smart Door/Smart_Door.o
+ .bss.Wrong_Password_Flag
+                0x008001c8        0x1 App/Smart Door/Smart_Door.o
+ .bss.Attempts_Flag
+                0x008001c9        0x1 App/Smart Door/Smart_Door.o
+ .bss.pin_Number_Check
+                0x008001ca        0x4 App/Smart Door/Smart_Door.o
+ .bss.pin_Char  0x008001ce        0x1 App/Smart Door/Smart_Door.o
+ .bss.Bluetooth_Data
+                0x008001cf        0x2 HAL/Bluetooth/Bluetooth_Core.o
+                0x008001cf                Bluetooth_Data
+ .bss.cnt.1855  0x008001d1        0x1 MCAL/IRQH/IRQH_Core.o
+ .bss.cnt.1849  0x008001d2        0x4 MCAL/IRQH/IRQH_Core.o
+ .bss.cnt.1843  0x008001d6        0x4 MCAL/IRQH/IRQH_Core.o
+ .bss.CallBack_PtrFunc
+                0x008001da       0x28 MCAL/IRQH/IRQH_Core.o
+                0x008001da                CallBack_PtrFunc
+ *(COMMON)
+ COMMON         0x00800202       0x2c MCAL/GPT/GPT_Core.o
+                0x00800202                Timer0_Total_num_ovfs
+                0x00800206                Timer0_TickTime
+                0x0080020a                Timer1_Init_Value
+                0x0080020e                Timer1_Total_num_ovfs
+                0x00800212                Timer1_TickTime
+                0x00800216                Timer1_Total_num_compare_match
+                0x0080021a                Timer0_Total_num_compare_match
+                0x0080021e                Timer1_compare_Reg_init
+                0x00800222                Timer0_Init_Value
+                0x00800226                Timer1_OVF_Cnt
+                0x0080022a                Timer0_compare_Reg_init
+ COMMON         0x0080022e        0x2 MCAL/UART/UART_Core.o
+                0x0080022e                RECEIVE_STATUS_FLAG
+                0x0080022f                TX_STATUS_FLAG
+                0x00800230                PROVIDE (__bss_end, .)
+                0x00000fac                __data_load_start = LOADADDR (.data)
+                0x00001112                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800230        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800230                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+ .comment       0x00000030       0x31 App/Main/App.o
+ .comment       0x00000030       0x31 App/Smart Door/Smart_Door.o
+ .comment       0x00000030       0x31 HAL/Bluetooth/Bluetooth_Core.o
+ .comment       0x00000030       0x31 HAL/BUZZ/BUZZ.o
+ .comment       0x00000030       0x31 HAL/EEPROM/EEPROM_Core.o
+ .comment       0x00000030       0x31 HAL/LCD/LCD_Core.o
+ .comment       0x00000030       0x31 HAL/LED/LED.o
+ .comment       0x00000030       0x31 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .comment       0x00000030       0x31 MCAL/DIO/DIO_Core.o
+ .comment       0x00000030       0x31 MCAL/I2C/I2C_Core.o
+ .comment       0x00000030       0x31 MCAL/IRQH/IRQH_Core.o
+ .comment       0x00000030       0x31 MCAL/PORT/PORT_Core.o
+ .comment       0x00000030       0x31 MCAL/GPT/GPT_Core.o
+ .comment       0x00000030       0x31 MCAL/PWM/PWM_Core.o
+ .comment       0x00000030       0x31 MCAL/UART/UART_Core.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x428
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+ .debug_aranges
+                0x00000018       0x18 App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+ .debug_aranges
+                0x00000030       0x20 App/Main/App.o
+ .debug_aranges
+                0x00000050       0x80 App/Smart Door/Smart_Door.o
+ .debug_aranges
+                0x000000d0       0x48 HAL/Bluetooth/Bluetooth_Core.o
+ .debug_aranges
+                0x00000118       0x28 HAL/BUZZ/BUZZ.o
+ .debug_aranges
+                0x00000140       0x40 HAL/EEPROM/EEPROM_Core.o
+ .debug_aranges
+                0x00000180       0x58 HAL/LCD/LCD_Core.o
+ .debug_aranges
+                0x000001d8       0x28 HAL/LED/LED.o
+ .debug_aranges
+                0x00000200       0x28 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .debug_aranges
+                0x00000228       0x48 MCAL/DIO/DIO_Core.o
+ .debug_aranges
+                0x00000270       0x68 MCAL/I2C/I2C_Core.o
+ .debug_aranges
+                0x000002d8       0x68 MCAL/IRQH/IRQH_Core.o
+ .debug_aranges
+                0x00000340       0x20 MCAL/PORT/PORT_Core.o
+ .debug_aranges
+                0x00000360       0x40 MCAL/GPT/GPT_Core.o
+ .debug_aranges
+                0x000003a0       0x30 MCAL/PWM/PWM_Core.o
+ .debug_aranges
+                0x000003d0       0x58 MCAL/UART/UART_Core.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x3bcc
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_info    0x000004e6       0x90 App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+ .debug_info    0x00000576       0xe8 App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+ .debug_info    0x0000065e      0x112 App/Main/App.o
+ .debug_info    0x00000770      0xceb App/Smart Door/Smart_Door.o
+ .debug_info    0x0000145b      0x2ba HAL/Bluetooth/Bluetooth_Core.o
+ .debug_info    0x00001715      0x12e HAL/BUZZ/BUZZ.o
+ .debug_info    0x00001843      0x41f HAL/EEPROM/EEPROM_Core.o
+ .debug_info    0x00001c62      0x7fc HAL/LCD/LCD_Core.o
+ .debug_info    0x0000245e      0x174 HAL/LED/LED.o
+ .debug_info    0x000025d2      0x149 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .debug_info    0x0000271b      0x2fd MCAL/DIO/DIO_Core.o
+ .debug_info    0x00002a18      0x316 MCAL/I2C/I2C_Core.o
+ .debug_info    0x00002d2e      0x2e6 MCAL/IRQH/IRQH_Core.o
+ .debug_info    0x00003014      0x1b4 MCAL/PORT/PORT_Core.o
+ .debug_info    0x000031c8      0x46a MCAL/GPT/GPT_Core.o
+ .debug_info    0x00003632      0x29c MCAL/PWM/PWM_Core.o
+ .debug_info    0x000038ce      0x2fe MCAL/UART/UART_Core.o
+
+.debug_abbrev   0x00000000     0x15fb
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3       0x4b App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+ .debug_abbrev  0x000004ee       0x86 App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+ .debug_abbrev  0x00000574       0xa8 App/Main/App.o
+ .debug_abbrev  0x0000061c      0x1bf App/Smart Door/Smart_Door.o
+ .debug_abbrev  0x000007db      0x113 HAL/Bluetooth/Bluetooth_Core.o
+ .debug_abbrev  0x000008ee       0xbc HAL/BUZZ/BUZZ.o
+ .debug_abbrev  0x000009aa      0x137 HAL/EEPROM/EEPROM_Core.o
+ .debug_abbrev  0x00000ae1      0x21f HAL/LCD/LCD_Core.o
+ .debug_abbrev  0x00000d00       0xcb HAL/LED/LED.o
+ .debug_abbrev  0x00000dcb       0xcd HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .debug_abbrev  0x00000e98      0x107 MCAL/DIO/DIO_Core.o
+ .debug_abbrev  0x00000f9f      0x107 MCAL/I2C/I2C_Core.o
+ .debug_abbrev  0x000010a6      0x146 MCAL/IRQH/IRQH_Core.o
+ .debug_abbrev  0x000011ec      0x109 MCAL/PORT/PORT_Core.o
+ .debug_abbrev  0x000012f5      0x104 MCAL/GPT/GPT_Core.o
+ .debug_abbrev  0x000013f9      0x103 MCAL/PWM/PWM_Core.o
+ .debug_abbrev  0x000014fc       0xff MCAL/UART/UART_Core.o
+
+.debug_line     0x00000000     0x1b63
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x116 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_line    0x00000116       0x5c App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+ .debug_line    0x00000172       0x6f App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+ .debug_line    0x000001e1       0x93 App/Main/App.o
+ .debug_line    0x00000274      0x647 App/Smart Door/Smart_Door.o
+ .debug_line    0x000008bb      0x135 HAL/Bluetooth/Bluetooth_Core.o
+ .debug_line    0x000009f0       0x99 HAL/BUZZ/BUZZ.o
+ .debug_line    0x00000a89      0x1b2 HAL/EEPROM/EEPROM_Core.o
+ .debug_line    0x00000c3b      0x39f HAL/LCD/LCD_Core.o
+ .debug_line    0x00000fda       0xa0 HAL/LED/LED.o
+ .debug_line    0x0000107a       0xb1 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .debug_line    0x0000112b      0x135 MCAL/DIO/DIO_Core.o
+ .debug_line    0x00001260      0x223 MCAL/I2C/I2C_Core.o
+ .debug_line    0x00001483      0x29d MCAL/IRQH/IRQH_Core.o
+ .debug_line    0x00001720       0xe1 MCAL/PORT/PORT_Core.o
+ .debug_line    0x00001801      0x105 MCAL/GPT/GPT_Core.o
+ .debug_line    0x00001906       0xb8 MCAL/PWM/PWM_Core.o
+ .debug_line    0x000019be      0x1a5 MCAL/UART/UART_Core.o
+
+.debug_frame    0x00000000      0x938
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x24 App/Main/App.o
+ .debug_frame   0x00000024       0xe4 App/Smart Door/Smart_Door.o
+ .debug_frame   0x00000108       0x74 HAL/Bluetooth/Bluetooth_Core.o
+ .debug_frame   0x0000017c       0x34 HAL/BUZZ/BUZZ.o
+ .debug_frame   0x000001b0       0xb8 HAL/EEPROM/EEPROM_Core.o
+ .debug_frame   0x00000268      0x110 HAL/LCD/LCD_Core.o
+ .debug_frame   0x00000378       0x34 HAL/LED/LED.o
+ .debug_frame   0x000003ac       0x34 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .debug_frame   0x000003e0       0x74 MCAL/DIO/DIO_Core.o
+ .debug_frame   0x00000454       0xb4 MCAL/I2C/I2C_Core.o
+ .debug_frame   0x00000508      0x2b4 MCAL/IRQH/IRQH_Core.o
+ .debug_frame   0x000007bc       0x24 MCAL/PORT/PORT_Core.o
+ .debug_frame   0x000007e0       0x78 MCAL/GPT/GPT_Core.o
+ .debug_frame   0x00000858       0x4c MCAL/PWM/PWM_Core.o
+ .debug_frame   0x000008a4       0x94 MCAL/UART/UART_Core.o
+
+.debug_str      0x00000000      0xff3
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 D:/AVR/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_str     0x00000196      0x175 App/CFGH/HAL_CFG/LCD_Cfg/LCD_Cfg.o
+                                0x19c (size before relaxing)
+ .debug_str     0x0000030b       0x80 App/CFGH/MCAL_CFG/PORT_CFG/PORT_LCFG.o
+                                0x1eb (size before relaxing)
+ .debug_str     0x0000038b       0x76 App/Main/App.o
+                                0x1e5 (size before relaxing)
+ .debug_str     0x00000401      0x329 App/Smart Door/Smart_Door.o
+                                0x50c (size before relaxing)
+ .debug_str     0x0000072a       0xd5 HAL/Bluetooth/Bluetooth_Core.o
+                                0x2f7 (size before relaxing)
+ .debug_str     0x000007ff       0x35 HAL/BUZZ/BUZZ.o
+                                0x1bd (size before relaxing)
+ .debug_str     0x00000834      0x105 HAL/EEPROM/EEPROM_Core.o
+                                0x2eb (size before relaxing)
+ .debug_str     0x00000939       0x9a HAL/LCD/LCD_Core.o
+                                0x311 (size before relaxing)
+ .debug_str     0x000009d3       0x4a HAL/LED/LED.o
+                                0x1f0 (size before relaxing)
+ .debug_str     0x00000a1d       0x47 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+                                0x1ea (size before relaxing)
+ .debug_str     0x00000a64       0x7e MCAL/DIO/DIO_Core.o
+                                0x256 (size before relaxing)
+ .debug_str     0x00000ae2       0x7e MCAL/I2C/I2C_Core.o
+                                0x2ea (size before relaxing)
+ .debug_str     0x00000b60      0x196 MCAL/IRQH/IRQH_Core.o
+                                0x373 (size before relaxing)
+ .debug_str     0x00000cf6       0x2d MCAL/PORT/PORT_Core.o
+                                0x212 (size before relaxing)
+ .debug_str     0x00000d23      0x1b0 MCAL/GPT/GPT_Core.o
+                                0x3fb (size before relaxing)
+ .debug_str     0x00000ed3       0x3a MCAL/PWM/PWM_Core.o
+                                0x23f (size before relaxing)
+ .debug_str     0x00000f0d       0xe6 MCAL/UART/UART_Core.o
+                                0x2fe (size before relaxing)
+
+.debug_loc      0x00000000     0x18ce
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x240 App/Smart Door/Smart_Door.o
+ .debug_loc     0x00000240       0x35 HAL/Bluetooth/Bluetooth_Core.o
+ .debug_loc     0x00000275      0x406 HAL/EEPROM/EEPROM_Core.o
+ .debug_loc     0x0000067b      0x582 HAL/LCD/LCD_Core.o
+ .debug_loc     0x00000bfd       0x63 HAL/LED/LED.o
+ .debug_loc     0x00000c60       0x5b HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .debug_loc     0x00000cbb      0x2cb MCAL/DIO/DIO_Core.o
+ .debug_loc     0x00000f86       0xad MCAL/I2C/I2C_Core.o
+ .debug_loc     0x00001033      0x5e1 MCAL/IRQH/IRQH_Core.o
+ .debug_loc     0x00001614       0x92 MCAL/PORT/PORT_Core.o
+ .debug_loc     0x000016a6       0x7d MCAL/GPT/GPT_Core.o
+ .debug_loc     0x00001723       0x98 MCAL/PWM/PWM_Core.o
+ .debug_loc     0x000017bb      0x113 MCAL/UART/UART_Core.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x308
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 App/Main/App.o
+ .debug_ranges  0x00000010       0x70 App/Smart Door/Smart_Door.o
+ .debug_ranges  0x00000080       0x38 HAL/Bluetooth/Bluetooth_Core.o
+ .debug_ranges  0x000000b8       0x18 HAL/BUZZ/BUZZ.o
+ .debug_ranges  0x000000d0       0x30 HAL/EEPROM/EEPROM_Core.o
+ .debug_ranges  0x00000100       0x48 HAL/LCD/LCD_Core.o
+ .debug_ranges  0x00000148       0x18 HAL/LED/LED.o
+ .debug_ranges  0x00000160       0x18 HAL/SERVO_MOTOR/SERVO_MOTOR_Core.o
+ .debug_ranges  0x00000178       0x38 MCAL/DIO/DIO_Core.o
+ .debug_ranges  0x000001b0       0x58 MCAL/I2C/I2C_Core.o
+ .debug_ranges  0x00000208       0x58 MCAL/IRQH/IRQH_Core.o
+ .debug_ranges  0x00000260       0x10 MCAL/PORT/PORT_Core.o
+ .debug_ranges  0x00000270       0x30 MCAL/GPT/GPT_Core.o
+ .debug_ranges  0x000002a0       0x20 MCAL/PWM/PWM_Core.o
+ .debug_ranges  0x000002c0       0x48 MCAL/UART/UART_Core.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(COTS.elf elf32-avr)
+LOAD linker stubs

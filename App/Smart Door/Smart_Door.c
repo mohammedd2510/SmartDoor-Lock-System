@@ -237,8 +237,10 @@ static void Wrong_Password_3Times_Routine(void){
 	LCD_WriteString(" Wrong Password ");
 	LCD_GoTo(1,0);
 	LCD_WriteString("3 Times Alarm On");
+	LED_SetValue(LED_RED,LED_HIGH);
 	BUZZ_ON();
 	_delay_ms(4000);
+	LED_SetValue(LED_RED,LED_LOW);
 	BUZZ_OFF();
 	Attempts_Flag=2;
 	Wrong_Password_Flag=0;
@@ -317,6 +319,7 @@ void SmartDoor_Initialize(void){
 	Bluetooth_Select_Variable(&pin_Char);
 	ServoMotor_Init();
 	EEPROM_INIT();
+	_delay_ms(10);
 	EEPROM_ReadMultipleByte(EEPROM_Address ,0X00,Current_pin,PIN_SIZE);
 	LCD_Custom_Char_Init();
 	Welcome_Message();
